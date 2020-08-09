@@ -1,0 +1,23 @@
+Alipurduar
+Bankura
+Paschim Bardhaman
+Purba Bardhaman
+Birbhum
+Cooch Behar
+Darjeeling
+Uttar Dinajpur
+Dakshin Dinajpur
+Hooghly
+Howrah
+Jalpaiguri
+Jhargram
+Kolkata
+Kalimpong
+Malda
+Paschim Medinipur	
+Purba Medinipur
+Murshidabad
+Nadia
+North 24 Parganas
+South 24 Parganas	
+Purulia
